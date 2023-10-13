@@ -38,6 +38,7 @@ jobs:
         with:
           node-version: 18.x
           cache: yarn
+          cache-dependency-path: dissertation-docs/yarn.lock  
       - name: Install dependencies
         run: yarn install --frozen-lockfile --non-interactive
       - name: Build
