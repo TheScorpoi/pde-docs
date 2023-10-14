@@ -11,8 +11,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Master Thesis - Pedro Sobral',
-  tagline: 'A website for my master thesis',
+  title: 'PDE - Pedro Sobral',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -36,17 +36,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,10 +52,10 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Master Thesis - Pedro Sobral',
+        title: 'PDE - Pedro Sobral',
         logo: {
           alt: 'My Meta Project Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo-1.png',
         },
         items: [
           {
@@ -72,7 +64,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: 'blog', label: 'Blog', position: 'left'},
+          {to: 'blog', label: 'Portefólio', position: 'left'},
           // Please keep GitHub link to the right for consistency.
           {
             href: 'https://github.com/facebook/docusaurus',
