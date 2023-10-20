@@ -11,4 +11,6 @@ It was my first time attending a DSPT event, and I like it and I met new people 
 
 The meetup have 2 sections, the first one with a presentation hosted by António Howcroft Ferreira, where subjects like MLOps, AIOps and DataOps were approached, were given some  good pratices advices and what to not do in some scnearios. Then the speaker shows an implementation os a MLOps system in a device to be used on a industrial enviroment, the main objective of it was to understand the failures that can happen in a industrial floor. Then in the final section there was a coffe break that let me met some new people on the Data Science field that have experience on the Machine Learning subject.
 
-
+![](./img/IMG_2931.jpeg)
+![](./img/IMG_2932.jpeg)
+![](./img/IMG_2933.jpeg)

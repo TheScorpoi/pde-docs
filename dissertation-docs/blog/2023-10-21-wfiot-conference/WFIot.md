@@ -4,7 +4,6 @@ title: WFIoT Conference
 authors: [sobral]
 ---
 
-import ImageCarousel from './ImageCarousel';
 
 The IEEE WFIoT Conference took place in Aveiro in October 2023. I was a volunteer in the conference and I had the opportunity to meet people from all over the world and to learn about the latest technologies in the IoT area. Besides IoT is not the main area of my research, there was a lot of sessions where Machine Learning came up as a solution to solve some problems in IoT, so I found it very interesting to attend those sessions, and to learn more about the application of Machine Learning in the IoT field.
 
@@ -18,5 +17,8 @@ The conference was not about my main research area, but as I said before, there 
 
 Another example that caught my attention was a research work where the researchers integrated Machine Learning techniques and Virtual Reality in wind farms. They could extract data from the IoT devices and make predictions and navigate through the wind farm using virtual reality glasses to check the turbines and see metrics about it.
 
-
-<ImageCarousel images={['../../static/img/IMG_2910.jpg', '../../static/img/IMG_2910.jpg']} />
+![](./img/IMG_2910.jpg)
+![](./img/IMG_2922.jpeg)
+![](./img/IMG_2924.jpeg)
+![](./img/IMG_2927.jpeg)
+![](./img/IMG_2948.jpeg)
