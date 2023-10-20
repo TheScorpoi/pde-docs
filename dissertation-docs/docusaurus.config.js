@@ -11,7 +11,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PDE - Pedro Sobral',
+  title: 'Preparação Dissertação e Estágio - Pedro Sobral',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -65,12 +65,6 @@ const config = {
             label: 'Sprints',
           },
           {to: 'blog', label: 'Portefólio', position: 'left'},
-          // Please keep GitHub link to the right for consistency.
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
