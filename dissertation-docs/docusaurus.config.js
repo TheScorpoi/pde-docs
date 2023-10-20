@@ -62,7 +62,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Sprints',
           },
           {to: 'blog', label: 'Portefólio', position: 'left'},
           // Please keep GitHub link to the right for consistency.
