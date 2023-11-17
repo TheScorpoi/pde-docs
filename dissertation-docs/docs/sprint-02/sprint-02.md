@@ -22,3 +22,4 @@ sidebar_position: 1
 | Continue testing the current and other Feature Store tools | 
 | Start implementing a GitOps workflow with multi-environments applied to Machine Learning |
 | Start develop a small Machine Learning Pipeline with real data |
+| Benchmark system to evaluate current solution at Bosch |

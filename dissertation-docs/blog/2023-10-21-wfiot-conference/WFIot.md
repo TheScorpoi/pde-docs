@@ -22,3 +22,4 @@ Another example that caught my attention was a research work where the researche
 ![](./img/IMG_2924.jpeg)
 ![](./img/IMG_2927.jpeg)
 ![](./img/IMG_2948.jpeg)
+![](./img/Screenshot%202023-11-15%20at%2013.44.41.png)
