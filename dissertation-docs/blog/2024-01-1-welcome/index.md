@@ -15,3 +15,8 @@ In this section, you can find the documentation about professional and academic 
 ## Community meetings
 
     - DSPT Meetup in Aveiro about MLOps
+  
+## Master Thesis Defence
+
+    - Assist to the MSc Thesis Defence about Cibersecurity
+    - Assist to the MSc Thesis Defence about Data Pipelines integrated with MLOps
